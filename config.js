@@ -26,9 +26,9 @@ module.exports = {
   nodes: [
       {
       name: "GlaceYT",
-      password: "glace",
-      host: "de-01.strixnodes.com",
-      port: 2028,
+      password: "D-Radio",
+      host: "ishaan.hidencloud.com",
+      port: 24611,
       secure: false
     }
   ]
