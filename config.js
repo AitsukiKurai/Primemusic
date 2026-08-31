@@ -28,7 +28,7 @@ module.exports = {
       name: "GlaceYT",
       password: "glace",
       host: "de-01.strixnodes.com",
-      port: 2010,
+      port: 2028,
       secure: false
     }
   ]
