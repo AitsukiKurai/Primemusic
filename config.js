@@ -29,7 +29,7 @@ module.exports = {
       password: "https://seretia.link/discord",
       host: "lavalinkv4.serenetia.com",
       port: 443,
-      secure: false
+      secure: true
     }
   ]
 }
